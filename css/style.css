@@ -6608,6 +6608,10 @@ img{
     background-color: #80b1ff;
 }
 
+.blurb-image{
+	cursor: pointer;
+}
+
 .blurb-image svg {
     max-width: 220px;
     text-align: center;
