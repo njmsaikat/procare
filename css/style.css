@@ -6622,3 +6622,7 @@ img{
 .blurb-image:hover .cls-2 {
     fill: #80b1ff;
 }
+
+.blurb-image:hover .cls-3 {
+    fill: #fff;
+}
