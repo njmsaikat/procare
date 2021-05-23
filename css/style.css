@@ -6619,10 +6619,28 @@ img{
     display: inline !important;
 }
 
+.place-image {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.blurb-image .place-image img {
+    text-align: center;
+    max-width: 130px;
+    top: -248px;
+    text-align: center;
+    justify-content: center;
+    display: inline !important;
+}
+
 .blurb-image:hover .cls-2 {
     fill: #80b1ff;
 }
 
 .blurb-image:hover .cls-3 {
     fill: #fff;
+}
+
+.blurb-image:hover .place-image img {
+    display: none !important;
 }
