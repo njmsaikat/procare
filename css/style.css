@@ -6613,7 +6613,7 @@ img{
 }
 
 .blurb-image svg {
-    max-width: 220px;
+    max-width: 300px;
     text-align: center;
     justify-content: center;
     display: inline !important;
