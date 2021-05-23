@@ -2754,9 +2754,11 @@ img{
 	position:relative;
 	padding:165px 0px 100px;
 	background-color:#252727;
-	background-position:left center;
+	/* background-position:left center; */
 	background-repeat:no-repeat;
 	background-attachment:fixed;
+	background-position: center;
+	background-size: cover;
 }
 
 .call-to-action-section:before{
